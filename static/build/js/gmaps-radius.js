@@ -4,7 +4,7 @@
     markers = [];
     map = new google.maps.Map($('#map')[0], {
       zoom: 10,
-      center: new google.maps.LatLng(51.500358, -0.125506),
+      center: new google.maps.LatLng(52.3702, -0.048952),
       mapType: google.maps.MapTypeId.ROADMAP,
       disableDefaultUI: true,
       mapTypeControl: true,
